@@ -46,7 +46,7 @@ Empregar a tecnologia para simplificar a complexidade, gerar insights valiosos e
 
 ## 💼 Experiência Profissional
 **Arquiteto de soluções**  
-Tempo integral  
+Tempo integral -> Atual
 Presencial
 
 **Desenvolvedor de Pleno**  
@@ -60,6 +60,7 @@ Presencial
 **Estagiario de Infraestrutura**  
 Tempo integral  
 Presencial
+
 ---
 
 ## 🌐 Conecte-se Comigo
