@@ -49,6 +49,17 @@ Empregar a tecnologia para simplificar a complexidade, gerar insights valiosos e
 Tempo integral  
 Presencial
 
+**Desenvolvedor de Pleno**  
+Tempo integral  
+Presencial
+
+**Desenvolvedor de Junior**  
+Tempo integral  
+Presencial
+
+**Estagiario de Infraestrutura**  
+Tempo integral  
+Presencial
 ---
 
 ## 🌐 Conecte-se Comigo
