@@ -44,22 +44,11 @@ Empregar a tecnologia para simplificar a complexidade, gerar insights valiosos e
 
 ---
 
-## 💼 Experiência Profissional
-**Arquiteto de soluções**  
-Tempo integral -> Atual
-Presencial
-
-**Desenvolvedor de Pleno**  
+## 💼 Momento Profissional
+**Arquiteto de soluções na Conveste Serviços Financeiros**  
 Tempo integral  
 Presencial
 
-**Desenvolvedor de Junior**  
-Tempo integral  
-Presencial
-
-**Estagiario de Infraestrutura**  
-Tempo integral  
-Presencial
 
 ---
 
